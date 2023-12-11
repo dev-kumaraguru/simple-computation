@@ -2,6 +2,10 @@
 
 This is a simple JavaScript application that calculates the value of the expression \(x^2 + y^2\). It provides a user-friendly interface for entering values of `x` and `y`, performing the calculation, and displaying the result.
 
+## Live site URL [click to see ](https://dev-kumaraguru.github.io/simple-computation/)
+
+![screenshot of the output site](./Screenshot%202023-12-11%20at%2021-03-24%20Document.png)
+
 ## Code Overview
 
 The JavaScript code handles the logic for calculating \(x^2 + y^2\). It uses the `parseFloat` function to convert input values to numbers, checks for valid input, and updates the result accordingly. The event listener prevents the default form submission behavior to avoid page reload.
@@ -67,8 +71,5 @@ function calculate() {
 - The HTML includes a result container with the ID "result," where the calculation result is displayed.
 - The container has predefined styling using Tailwind CSS classes, providing a visually appealing display.
 
-## Live site URL
 
-![screenshot of the output site](./Screenshot%202023-12-11%20at%2021-03-24%20Document.png)
 
-[click to see ]()
