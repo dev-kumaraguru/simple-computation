@@ -10,8 +10,6 @@ This is a simple JavaScript application that calculates the value of the express
 
 The JavaScript code handles the logic for calculating \(x^2 + y^2\). It uses the `parseFloat` function to convert input values to numbers, checks for valid input, and updates the result accordingly. The event listener prevents the default form submission behavior to avoid page reload.
 
-Certainly! Below is an explanation of the JavaScript code in detail:
-
 ## JavaScript Explanation
 
 ### Event Listener and Form Submission
